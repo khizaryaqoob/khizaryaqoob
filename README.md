@@ -1,12 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h2 align="left">Hi 👋! My name is Khizar</h2>
 
 ###
 
